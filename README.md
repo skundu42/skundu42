@@ -1,6 +1,6 @@
 # Hey, I'm Sandipan Kundu 👋
 
-**Developer Relations Engineer · Solutions Engineer · Rust & Web3 Builder**
+**Developer Relations Engineer · Solutions Engineer · Blockchain(EVM) & AI**
 
 I build developer tools, SDKs, technical demos, documentation, and blockchain infrastructure with a strong focus on making complex systems easier for developers to understand and use.
 
